@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "kite": "objective-cpp",
+        "array": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "ostream": "cpp",
+        "random": "cpp",
+        "iostream": "cpp",
+        "bitset": "cpp"
+    }
+}
